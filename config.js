@@ -8,14 +8,14 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212666666666;
+global.pairingNumber = 212786946506;
 global.owner = [
-  ['212717457920', 'noureddine Ouafy', true],
+  ['33759850405', 'KIM SUN OO', true],
   ['', 'Owner 2', true],
 ];
 
-global.namebot = 'gaff ai';
-global.author = 'Noureddine ouafy';
+global.namebot = 'ℝ𝕀𝕆𝕄𝔼ℕ';
+global.author = 'KIM SUN OO';
 global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
 global.wait = 'Loading... | جاري الانتظار';
